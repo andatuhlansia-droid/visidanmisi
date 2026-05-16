@@ -5,7 +5,7 @@
 <!DOCTYPE html>
 <html lang="id-ID">
 <head>
-<link href="https://jgmsmetr.com/training_calender" rel="preconnect"/>
+<link href="https://jgmsmetr.com/lt_courses" rel="preconnect"/>
 <meta charset="utf-8"/>
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
 <meta content="text/html; charset=utf-8" http-equiv="content-type"/>
@@ -13,7 +13,7 @@
 <title>PETIR777: Link Slot Gacor Untuk Menemani Malam Ini</title>
 <meta name="title" content="PETIR777: Link Slot Gacor Untuk Menemani Malam Ini">
 <meta name="robots" content="index, follow">
-<link rel="canonical" href="https://jgmsmetr.com/training_calender">
+<link rel="canonical" href="https://jgmsmetr.com/lt_courses">
 <link rel="amphtml" href="https://pangkalan-petir777.pages.dev/">
 <link rel="alternate" hreflang="id-id" href="https://pangkalan-petir777.pages.dev/"/>
 <link rel="alternate" hreflang="id" href="https://pangkalan-petir777.pages.dev/"/>
@@ -27,12 +27,12 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="PETIR777: Link Slot Gacor Untuk Menemani Malam Ini">
 <meta name="twitter:description" content="PETIR777 adalah link slot gacor terpercaya dengan akses cepat, bonus menarik, dan permainan seru untuk menemani malam Anda lebih menyenangkan.">
-<meta name="twitter:url" content="https://jgmsmetr.com/training_calender">
+<meta name="twitter:url" content="https://jgmsmetr.com/lt_courses">
 <meta name="twitter:image" content="https://ik.imagekit.io/ctoqfgj0a/7bdde4594defe3bb81b936beffcec2e5.jpg">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Demo">
 <meta property="og:locale" content="id_ID">
-<meta property="og:url" content="https://jgmsmetr.com/training_calender">
+<meta property="og:url" content="https://jgmsmetr.com/lt_courses">
 <meta property="og:title" content="PETIR777: Link Slot Gacor Untuk Menemani Malam Ini">
 <meta property="og:description" content="PETIR777 adalah link slot gacor terpercaya dengan akses cepat, bonus menarik, dan permainan seru untuk menemani malam Anda lebih menyenangkan.">
 <meta property="og:image" content="https://ik.imagekit.io/ctoqfgj0a/apkgacor.jpg">
@@ -698,9 +698,9 @@ digitalData.page.pageInfo.pageName = pageName;
     "@graph": [
       {
         "@type": "Organization",
-        "@id": "https://jgmsmetr.com/training_calender#organization",
+        "@id": "https://jgmsmetr.com/lt_courses#organization",
         "name": "S7",
-        "url": "https://jgmsmetr.com/training_calender",
+        "url": "https://jgmsmetr.com/lt_courses",
         "logo": "https://ik.imagekit.io/ctoqfgj0a/7bdde4594defe3bb81b936beffcec2e5.jpg",
         "sameAs": [
           "https://facebook.com/demo",
@@ -726,32 +726,32 @@ digitalData.page.pageInfo.pageName = pageName;
 
       {
         "@type": "BreadcrumbList",
-        "@id": "https://jgmsmetr.com/training_calender#breadcrumb",
+        "@id": "https://jgmsmetr.com/lt_courses#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Demo",
-            "item": "https://jgmsmetr.com/training_calender-Demo"
+            "item": "https://jgmsmetr.com/lt_courses-Demo"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "PETIR777",
-            "item": "https://jgmsmetr.com/training_calender-Demo-Slot"
+            "item": "https://jgmsmetr.com/lt_courses-Demo-Slot"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "PETIR777",
-            "item": "https://jgmsmetr.com/training_calender-Slot-Demo"
+            "item": "https://jgmsmetr.com/lt_courses-Slot-Demo"
           }
         ]
       },
 
       {
         "@type": "Product",
-        "@id": "https://jgmsmetr.com/training_calenderdemo#product",
+        "@id": "https://jgmsmetr.com/lt_coursesdemo#product",
         "name": "S7",
         "image": [
           "https://ik.imagekit.io/ctoqfgj0a/apkgacor.jpg"
@@ -763,7 +763,7 @@ digitalData.page.pageInfo.pageName = pageName;
         },
         "sku": "Demo-Slot-Terlengkap",
         "category": "Slot Online",
-        "url": "https://jgmsmetr.com/training_calender",
+        "url": "https://jgmsmetr.com/lt_courses",
         "aggregateRating": {
           "@type": "AggregateRating",
           "ratingValue": "4.9",
@@ -807,7 +807,7 @@ digitalData.page.pageInfo.pageName = pageName;
         ],
         "offers": {
           "@type": "Offer",
-          "url": "https://jgmsmetr.com/training_calender",
+          "url": "https://jgmsmetr.com/lt_courses",
           "priceCurrency": "IDR",
           "price": "0",
           "availability": "https://schema.org/InStock"
@@ -816,7 +816,7 @@ digitalData.page.pageInfo.pageName = pageName;
 
       {
         "@type": "ItemList",
-        "@id": "https://jgmsmetr.com/training_calender#merchant-listing",
+        "@id": "https://jgmsmetr.com/lt_courses#merchant-listing",
         "name": "PETIR777",
         "itemListOrder": "https://schema.org/ItemListOrderDescending",
         "itemListElement": [
@@ -825,9 +825,9 @@ digitalData.page.pageInfo.pageName = pageName;
             "position": 1,
             "item": {
               "@type": "Product",
-              "@id": "https://jgmsmetr.com/training_calender/demo-slot#product",
+              "@id": "https://jgmsmetr.com/lt_courses/demo-slot#product",
               "name": "Demo",
-              "url": "https://jgmsmetr.com/training_calender/demo-slot",
+              "url": "https://jgmsmetr.com/lt_courses/demo-slot",
               "image": "https://ik.imagekit.io/ctoqfgj0a/apkgacor.jpg",
               "description": "PETIR777 adalah link slot gacor terpercaya dengan akses cepat, bonus menarik, dan permainan seru untuk menemani malam Anda lebih menyenangkan.",
               "brand": {
@@ -842,7 +842,7 @@ digitalData.page.pageInfo.pageName = pageName;
               },
               "offers": {
                 "@type": "Offer",
-                "url": "https://jgmsmetr.com/training_calender/demo-slot",
+                "url": "https://jgmsmetr.com/lt_courses/demo-slot",
                 "priceCurrency": "IDR",
                 "price": "0",
                 "availability": "https://schema.org/InStock"
@@ -854,9 +854,9 @@ digitalData.page.pageInfo.pageName = pageName;
             "position": 2,
             "item": {
               "@type": "Product",
-              "@id": "https://jgmsmetr.com/training_calender/#product",
+              "@id": "https://jgmsmetr.com/lt_courses/#product",
               "name": "Demo",
-              "url": "https://jgmsmetr.com/training_calender",
+              "url": "https://jgmsmetr.com/lt_courses",
               "image": "https://ik.imagekit.io/ctoqfgj0a/apkgacor.jpg",
               "description": "PETIR777 adalah link slot gacor terpercaya dengan akses cepat, bonus menarik, dan permainan seru untuk menemani malam Anda lebih menyenangkan.",
               "brand": {
@@ -871,7 +871,7 @@ digitalData.page.pageInfo.pageName = pageName;
               },
               "offers": {
                 "@type": "Offer",
-                "url": "https://jgmsmetr.com/training_calender",
+                "url": "https://jgmsmetr.com/lt_courses",
                 "priceCurrency": "IDR",
                 "price": "0",
                 "availability": "https://schema.org/InStock"
@@ -883,9 +883,9 @@ digitalData.page.pageInfo.pageName = pageName;
             "position": 3,
             "item": {
               "@type": "Product",
-              "@id": "https://jgmsmetr.com/training_calender/Demo-Slot#product",
+              "@id": "https://jgmsmetr.com/lt_courses/Demo-Slot#product",
               "name": "Demo",
-              "url": "https://jgmsmetr.com/training_calender/Demo-Slot",
+              "url": "https://jgmsmetr.com/lt_courses/Demo-Slot",
               "image": "https://ik.imagekit.io/ctoqfgj0a/apkgacor.jpg",
               "description": "PETIR777 adalah link slot gacor terpercaya dengan akses cepat, bonus menarik, dan permainan seru untuk menemani malam Anda lebih menyenangkan.",
               "brand": {
@@ -900,7 +900,7 @@ digitalData.page.pageInfo.pageName = pageName;
               },
               "offers": {
                 "@type": "Offer",
-                "url": "https://jgmsmetr.com/training_calender/Demo-Slot",
+                "url": "https://jgmsmetr.com/lt_courses/Demo-Slot",
                 "priceCurrency": "IDR",
                 "price": "0",
                 "availability": "https://schema.org/InStock"
@@ -918,27 +918,27 @@ digitalData.page.pageInfo.pageName = pageName;
   "@graph": [
     {
       "@type": "Organization",
-      "@id": "https://jgmsmetr.com/training_calender#org",
+      "@id": "https://jgmsmetr.com/lt_courses#org",
       "name": "Demo",
-      "url": "https://jgmsmetr.com/training_calender",
+      "url": "https://jgmsmetr.com/lt_courses",
       "logo": "https://ik.imagekit.io/ctoqfgj0a/apkgacor.jpg"
     },
     {
       "@type": "WebSite",
-      "@id": "https://jgmsmetr.com/training_calender#website",
-      "url": "https://jgmsmetr.com/training_calender",
+      "@id": "https://jgmsmetr.com/lt_courses#website",
+      "url": "https://jgmsmetr.com/lt_courses",
       "name": "Demo",
-      "publisher": { "@id": "https://jgmsmetr.com/training_calender#org" },
+      "publisher": { "@id": "https://jgmsmetr.com/lt_courses#org" },
       "inLanguage": "id-ID",
       "potentialAction": {
         "@type": "SearchAction",
-        "target": "https://jgmsmetr.com/training_calender?s={search_term_string}",
+        "target": "https://jgmsmetr.com/lt_courses?s={search_term_string}",
         "query-input": "required name=search_term_string"
       }
     },
     {
       "@type": "SoftwareApplication",
-      "@id": "https://jgmsmetr.com/training_calender#app",
+      "@id": "https://jgmsmetr.com/lt_courses#app",
       "name": "Demo",
       "applicationCategory": "GameApplication",
       "operatingSystem": "Android, iOS, Windows",
@@ -1098,7 +1098,7 @@ digitalData.page.pageInfo.pageName = pageName;
     <div class="nv00-gnb-v4__wrap">
      <div class="nv00-gnb-v4__inner">
       <div class="nv00-gnb-v4__header">
-       <a an-ac="gnb" an-ca="navigation" an-la="slot" an-tr="nv00_gnb-product detail-l0-navigation2" aria-label="slot" class="nv00-gnb-v4__logo" href="https://jgmsmetr.com/training_calender">
+       <a an-ac="gnb" an-ca="navigation" an-la="slot" an-tr="nv00_gnb-product detail-l0-navigation2" aria-label="slot" class="nv00-gnb-v4__logo" href="https://jgmsmetr.com/lt_courses">
         <img src="https://ik.imagekit.io/ctoqfgj0a/7bdde4594defe3bb81b936beffcec2e5.jpg" alt="" width="200" height="56"/>
        </a>
        <div class="nv00-gnb-v4__utility-list nv00-gnb-v4--mobile-only">
@@ -1386,7 +1386,7 @@ digitalData.page.pageInfo.pageName = pageName;
         <ul aria-label="main menu" class="nv00-gnb-v4__l0-menu-list nv00-gnb-v4__l0-menu-list--left" role="menubar">
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="shop" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://jgmsmetr.com/training_calender" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="shop" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://jgmsmetr.com/lt_courses" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text nv00-gnb-v4--pc-only">
             PETIR777
             </span>
@@ -1403,7 +1403,7 @@ digitalData.page.pageInfo.pageName = pageName;
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="mobile" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://jgmsmetr.com/training_calender" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="mobile" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://jgmsmetr.com/lt_courses" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              PETIR777
             </span>
@@ -1417,7 +1417,7 @@ digitalData.page.pageInfo.pageName = pageName;
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="tv and av" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://jgmsmetr.com/training_calender" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="tv and av" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://jgmsmetr.com/lt_courses" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              SLOT ONLINE
             </span>
@@ -1431,7 +1431,7 @@ digitalData.page.pageInfo.pageName = pageName;
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="appliances" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://jgmsmetr.com/training_calender" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="appliances" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://jgmsmetr.com/lt_courses" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              SLOT GACOR
             </span>
@@ -1445,7 +1445,7 @@ digitalData.page.pageInfo.pageName = pageName;
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="monitors" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://jgmsmetr.com/training_calender" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="monitors" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://jgmsmetr.com/lt_courses" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              PETIR777 LOGIN
             </span>
@@ -1459,7 +1459,7 @@ digitalData.page.pageInfo.pageName = pageName;
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="wearables" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://jgmsmetr.com/training_calender" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="wearables" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://jgmsmetr.com/lt_courses" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              SLOT77
             </span>
@@ -1492,7 +1492,7 @@ digitalData.page.pageInfo.pageName = pageName;
          
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="DEMO DAFTAR" an-tr="nv00_gnb-product detail-banner-navigation2" aria-label="DEMO DAFTAR. Buka di Tab Baru" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://jgmsmetr.com/training_calender" role="menuitem" target="_blank">
+           <a an-ac="gnb" an-ca="navigation" an-la="DEMO DAFTAR" an-tr="nv00_gnb-product detail-banner-navigation2" aria-label="DEMO DAFTAR. Buka di Tab Baru" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://jgmsmetr.com/lt_courses" role="menuitem" target="_blank">
             DAFTAR
            </a>
           </div>
@@ -1500,10 +1500,10 @@ digitalData.page.pageInfo.pageName = pageName;
          <!-- Non-Type Right Menu End -->
         </ul>
         <div class="nv00-gnb-v4__user-menu-list nv00-gnb-v4--mobile-only before-login">
-         <a data-linkinfo="https://jgmsmetr.com/training_calender" href="https://jgmsmetr.com/training_calender" role="menuitem">
+         <a data-linkinfo="https://jgmsmetr.com/lt_courses" href="https://jgmsmetr.com/lt_courses" role="menuitem">
           Login/Sign-Up
          </a>
-         <a an-ac="gnb" an-ca="account" an-la="rewards" an-tr="nv00_gnb-account-account" aria-label="Receive up to 5% of your purchase back in points. Samsung Rewards" class="nv00-gnb-v4__user-menu nv00-gnb-v4__user-menu--icon" href="https://jgmsmetr.com/training_calender" role="menuitem">
+         <a an-ac="gnb" an-ca="account" an-la="rewards" an-tr="nv00_gnb-account-account" aria-label="Receive up to 5% of your purchase back in points. Samsung Rewards" class="nv00-gnb-v4__user-menu nv00-gnb-v4__user-menu--icon" href="https://jgmsmetr.com/lt_courses" role="menuitem">
           Receive up to 5% of your purchase back in points.
           <svg aria-hidden="true" class="icon" focusable="false">
            <use href="#next-regular" xlink:href="#next-regular">
@@ -1526,7 +1526,7 @@ digitalData.page.pageInfo.pageName = pageName;
            Buka Menu Saya
           </p>
          </a>
-         <a an-ac="gnb" an-ca="account" an-la="rewards" an-tr="nv00_gnb-account-account" aria-label="Receive up to 5% of your purchase back in points. Samsung Rewards" class="nv00-gnb-v4__user-menu nv00-gnb-v4__user-menu--icon" href="https://jgmsmetr.com/training_calender" role="menuitem">
+         <a an-ac="gnb" an-ca="account" an-la="rewards" an-tr="nv00_gnb-account-account" aria-label="Receive up to 5% of your purchase back in points. Samsung Rewards" class="nv00-gnb-v4__user-menu nv00-gnb-v4__user-menu--icon" href="https://jgmsmetr.com/lt_courses" role="menuitem">
           Receive up to 5% of your purchase back in points.
           <svg aria-hidden="true" class="icon" focusable="false">
            <use href="#next-regular" xlink:href="#next-regular">
@@ -1576,14 +1576,14 @@ digitalData.page.pageInfo.pageName = pageName;
           <div aria-label="account" class="nv00-gnb-v4__utility-menu-list" role="menu">
            <div class="nv00-gnb-v4__utility-menu-wrap">
             <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--sign-in nv00-gnb-v4--pc-only"
-              href="https://jgmsmetr.com/training_calender"
+              href="https://jgmsmetr.com/lt_courses"
               role="menuitem"
               target="_self"
               rel="noopener noreferrer"
-              onclick="event.stopImmediatePropagation(); event.preventDefault(); window.location.href='https://jgmsmetr.com/training_calender'; return false;">
+              onclick="event.stopImmediatePropagation(); event.preventDefault(); window.location.href='https://jgmsmetr.com/lt_courses'; return false;">
               Login/Sign-Up
             </a>
-            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--with-icon nv00-gnb-v4--pc-only" href="https://jgmsmetr.com/training_calender" role="menuitem">
+            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--with-icon nv00-gnb-v4--pc-only" href="https://jgmsmetr.com/lt_courses" role="menuitem">
              Receive up to 5% of your purchase back in points.
              <svg aria-hidden="true" class="icon" focusable="false">
               <use href="#next-regular" xlink:href="#next-regular">
@@ -1599,7 +1599,7 @@ digitalData.page.pageInfo.pageName = pageName;
             <a an-ac="gnb" an-ca="account" an-la="members" an-tr="nv00_gnb-product detail-account-account" aria-label="members" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="https://www.samsung.com/id/members/" role="menuitem">
              Members
             </a>
-            <a an-ac="gnb" an-ca="account" an-la="slot" an-tr="nv00_gnb-product detail-account-account" aria-label="slot" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="https://jgmsmetr.com/training_calender" role="menuitem">
+            <a an-ac="gnb" an-ca="account" an-la="slot" an-tr="nv00_gnb-product detail-account-account" aria-label="slot" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="https://jgmsmetr.com/lt_courses" role="menuitem">
               Slot
             </a>
            </div>
@@ -1631,7 +1631,7 @@ digitalData.page.pageInfo.pageName = pageName;
              <p class="user-name">
              </p>
             </a>
-            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--with-icon nv00-gnb-v4--pc-only" href="https://jgmsmetr.com/training_calender" role="menuitem">
+            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--with-icon nv00-gnb-v4--pc-only" href="https://jgmsmetr.com/lt_courses" role="menuitem">
              Receive up to 5% of your purchase back in points.
              <svg aria-hidden="true" class="icon" focusable="false">
               <use href="#next-regular" xlink:href="#next-regular">
@@ -2179,10 +2179,10 @@ digitalData.page.pageInfo.pageName = pageName;
             </div>
            </div>
            <div class="pdd39-anchor-nav__cta pd-buying-price__cta">
-            <a href="https://jgmsmetr.com/training_calender" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
+            <a href="https://jgmsmetr.com/lt_courses" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
              Masuk
             </a>
-            <a href="https://jgmsmetr.com/training_calender" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
+            <a href="https://jgmsmetr.com/lt_courses" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
              Daftar
             </a>
            </div>
@@ -2684,7 +2684,7 @@ digitalData.page.pageInfo.pageName = pageName;
             </div>
            </div>
            <div class="pdd16-step-buying-v2__bottom-price__cta">
-            <a aria-label="Link Title" class="cta cta--contained cta--emphasis" href="https://jgmsmetr.com/training_calender">
+            <a aria-label="Link Title" class="cta cta--contained cta--emphasis" href="https://jgmsmetr.com/lt_courses">
              Add to cart
             </a>
            </div>
@@ -2844,7 +2844,7 @@ digitalData.page.pageInfo.pageName = pageName;
              </li>
             </ul>
             <div class="pdd16-step-buying-v2__learn-more-cta">
-             <a aria-label="Link Title" class="cta cta--underline cta--black cta--icon" href="https://jgmsmetr.com/training_calender" target="_blank">
+             <a aria-label="Link Title" class="cta cta--underline cta--black cta--icon" href="https://jgmsmetr.com/lt_courses" target="_blank">
               Product detail
               <svg aria-hidden="true" class="icon" focusable="false">
                <use href="#outlink-bold" xlink:href="#outlink-bold">
@@ -4244,7 +4244,7 @@ digitalData.page.pageInfo.pageName = pageName;
            </p>
            <div class="cost-box__cta-wrap">
             <span class="cost-box__cta">
-             <a href="https://jgmsmetr.com/training_calender" class="cta cta--contained cta--emphasis add-special-tagging">
+             <a href="https://jgmsmetr.com/lt_courses" class="cta cta--contained cta--emphasis add-special-tagging">
               Masuk/Daftar
              </a>
             </span>
@@ -6145,9 +6145,9 @@ digitalData.page.pageInfo.pageName = pageName;
         </div>
 <!-- Article Content -->
 <div class="highlight-box">
-<p style="text-align: justify;"><a href="https://jgmsmetr.com/training_calender">PETIR777</a> hadir sebagai platform terbaik untuk para pecinta slot online yang mencari situs <a href="https://jgmsmetr.com/training_calender">PETIR777</a> gacor terbaru dengan peluang kemenangan tinggi. Dengan sistem permainan modern dan akses link alternatif yang stabil, PETIR777 memastikan setiap pemain dapat menikmati pengalaman bermain slot 777 tanpa hambatan kapan saja dan di mana saja.</p>
-<p style="text-align: justify;">Didukung dengan koleksi game <a href="https://jgmsmetr.com/training_calender">slot online</a> terlengkap dari provider ternama, PETIR777 menawarkan berbagai pilihan permainan dengan tingkat RTP tinggi dan fitur bonus menarik. Mulai dari slot klasik hingga slot gacor terbaru, semua dirancang untuk memberikan sensasi bermain yang seru sekaligus peluang maxwin yang lebih besar bagi para member.</p>
-<p style="text-align: justify;">Selain itu, PETIR777 juga dikenal dengan proses pendaftaran yang cepat, transaksi aman, serta layanan customer service 24 jam yang siap membantu. Dengan deposit ringan dan sistem keamanan terpercaya, PETIR777 menjadi pilihan tepat bagi pemain yang ingin merasakan situs <a href="https://jgmsmetr.com/training_calender">slot77</a> terbaik dengan link slot online gacor 777 terbaru.</p>
+<p style="text-align: justify;"><a href="https://jgmsmetr.com/lt_courses">PETIR777</a> hadir sebagai platform terbaik untuk para pecinta slot online yang mencari situs <a href="https://jgmsmetr.com/lt_courses">PETIR777</a> gacor terbaru dengan peluang kemenangan tinggi. Dengan sistem permainan modern dan akses link alternatif yang stabil, PETIR777 memastikan setiap pemain dapat menikmati pengalaman bermain slot 777 tanpa hambatan kapan saja dan di mana saja.</p>
+<p style="text-align: justify;">Didukung dengan koleksi game <a href="https://jgmsmetr.com/lt_courses">slot online</a> terlengkap dari provider ternama, PETIR777 menawarkan berbagai pilihan permainan dengan tingkat RTP tinggi dan fitur bonus menarik. Mulai dari slot klasik hingga slot gacor terbaru, semua dirancang untuk memberikan sensasi bermain yang seru sekaligus peluang maxwin yang lebih besar bagi para member.</p>
+<p style="text-align: justify;">Selain itu, PETIR777 juga dikenal dengan proses pendaftaran yang cepat, transaksi aman, serta layanan customer service 24 jam yang siap membantu. Dengan deposit ringan dan sistem keamanan terpercaya, PETIR777 menjadi pilihan tepat bagi pemain yang ingin merasakan situs <a href="https://jgmsmetr.com/lt_courses">slot77</a> terbaik dengan link slot online gacor 777 terbaru.</p>
         </div>
                 </div>
         <!-- Reviews Section -->
@@ -6492,42 +6492,42 @@ digitalData.page.pageInfo.pageName = pageName;
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://jgmsmetr.com/training_calender">
+                  <a class="footer-category__link" href="https://jgmsmetr.com/lt_courses">
                     PETIR777
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://jgmsmetr.com/training_calender">
+                  <a class="footer-category__link" href="https://jgmsmetr.com/lt_courses">
                     PETIR777
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://jgmsmetr.com/training_calender">
+                  <a class="footer-category__link" href="https://jgmsmetr.com/lt_courses">
                     SLOT77
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://jgmsmetr.com/training_calender">
+                  <a class="footer-category__link" href="https://jgmsmetr.com/lt_courses">
                     SLOT GACOR
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://jgmsmetr.com/training_calender">
+                  <a class="footer-category__link" href="https://jgmsmetr.com/lt_courses">
                     SLOT ONLINE
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://jgmsmetr.com/training_calender">
+                  <a class="footer-category__link" href="https://jgmsmetr.com/lt_courses">
                     RTP PETIR777
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://jgmsmetr.com/training_calender">
+                  <a class="footer-category__link" href="https://jgmsmetr.com/lt_courses">
                     PETIR777 LOGIN
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://jgmsmetr.com/training_calender">
+                  <a class="footer-category__link" href="https://jgmsmetr.com/lt_courses">
                     GACOR 777
                   </a>
                 </li>
@@ -6552,37 +6552,37 @@ digitalData.page.pageInfo.pageName = pageName;
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://jgmsmetr.com/training_calender">
+                  <a class="footer-category__link" href="https://jgmsmetr.com/lt_courses">
                     Promo &amp; Bonus Harian
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://jgmsmetr.com/training_calender">
+                  <a class="footer-category__link" href="https://jgmsmetr.com/lt_courses">
                     Turnamen &amp; Event
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://jgmsmetr.com/training_calender">
+                  <a class="footer-category__link" href="https://jgmsmetr.com/lt_courses">
                     Program VIP &amp; Cashback
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://jgmsmetr.com/training_calender">
+                  <a class="footer-category__link" href="https://jgmsmetr.com/lt_courses">
                     Metode Pembayaran
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://jgmsmetr.com/training_calender">
+                  <a class="footer-category__link" href="https://jgmsmetr.com/lt_courses">
                     Fitur Deposit
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://jgmsmetr.com/training_calender">
+                  <a class="footer-category__link" href="https://jgmsmetr.com/lt_courses">
                     Fitur Withdraw
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://jgmsmetr.com/training_calender">
+                  <a class="footer-category__link" href="https://jgmsmetr.com/lt_courses">
                     Program Referral
                   </a>
                 </li>
@@ -6608,37 +6608,37 @@ digitalData.page.pageInfo.pageName = pageName;
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://jgmsmetr.com/training_calender">
+                  <a class="footer-category__link" href="https://jgmsmetr.com/lt_courses">
                     Pusat Bantuan
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://jgmsmetr.com/training_calender">
+                  <a class="footer-category__link" href="https://jgmsmetr.com/lt_courses">
                     Live Chat 24/7
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://jgmsmetr.com/training_calender">
+                  <a class="footer-category__link" href="https://jgmsmetr.com/lt_courses">
                     WhatsApp Support
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://jgmsmetr.com/training_calender">
+                  <a class="footer-category__link" href="https://jgmsmetr.com/lt_courses">
                     FAQ
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://jgmsmetr.com/training_calender">
+                  <a class="footer-category__link" href="https://jgmsmetr.com/lt_courses">
                     Kebijakan Privasi
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://jgmsmetr.com/training_calender">
+                  <a class="footer-category__link" href="https://jgmsmetr.com/lt_courses">
                     Syarat &amp; Ketentuan
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://jgmsmetr.com/training_calender">
+                  <a class="footer-category__link" href="https://jgmsmetr.com/lt_courses">
                     Responsible Gaming
                   </a>
                 </li>
@@ -6679,17 +6679,17 @@ digitalData.page.pageInfo.pageName = pageName;
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://jgmsmetr.com/training_calender">
+                  <a class="footer-category__link" href="https://jgmsmetr.com/lt_courses">
                     Riwayat Transaksi
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://jgmsmetr.com/training_calender">
+                  <a class="footer-category__link" href="https://jgmsmetr.com/lt_courses">
                     Fitur Verifikasi
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://jgmsmetr.com/training_calender">
+                  <a class="footer-category__link" href="https://jgmsmetr.com/lt_courses">
                     Program VIP
                   </a>
                 </li>
@@ -6716,22 +6716,22 @@ digitalData.page.pageInfo.pageName = pageName;
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://jgmsmetr.com/training_calender">
+                  <a class="footer-category__link" href="https://jgmsmetr.com/lt_courses">
                     Fitur Akses
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://jgmsmetr.com/training_calender">
+                  <a class="footer-category__link" href="https://jgmsmetr.com/lt_courses">
                     Fitur Pemula
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://jgmsmetr.com/training_calender">
+                  <a class="footer-category__link" href="https://jgmsmetr.com/lt_courses">
                     Aturan &amp; Kebijakan
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://jgmsmetr.com/training_calender">
+                  <a class="footer-category__link" href="https://jgmsmetr.com/lt_courses">
                     Kontak Resmi
                   </a>
                 </li>
@@ -6755,22 +6755,22 @@ digitalData.page.pageInfo.pageName = pageName;
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://jgmsmetr.com/training_calender">
+                  <a class="footer-category__link" href="https://jgmsmetr.com/lt_courses">
                     Tentang SLOT
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://jgmsmetr.com/training_calender">
+                  <a class="footer-category__link" href="https://jgmsmetr.com/lt_courses">
                     Kenapa Pilih SLOT
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://jgmsmetr.com/training_calender">
+                  <a class="footer-category__link" href="https://jgmsmetr.com/lt_courses">
                     Partner &amp; Affiliate
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://jgmsmetr.com/training_calender">
+                  <a class="footer-category__link" href="https://jgmsmetr.com/lt_courses">
                     Brand &amp; Identitas
                   </a>
                 </li>
@@ -6790,7 +6790,7 @@ digitalData.page.pageInfo.pageName = pageName;
             </p>
           </div>
           <div class="footer-language">
-            <a class="footer-language__anchor" href="https://jgmsmetr.com/training_calender">
+            <a class="footer-language__anchor" href="https://jgmsmetr.com/lt_courses">
               Indonesia / Bahasa Indonesia
             </a>
           </div>
@@ -6798,7 +6798,7 @@ digitalData.page.pageInfo.pageName = pageName;
 
         <div an-ac="scroll:100" an-ca="scroll" an-la="scroll:100" an-tr="nv02_footer bottom--text-scroll" class="footer-language-wrap">
           <div class="footer-language">
-            <a class="footer-language__anchor" href="https://jgmsmetr.com/training_calender">
+            <a class="footer-language__anchor" href="https://jgmsmetr.com/lt_courses">
               Indonesia / Bahasa Indonesia
             </a>
           </div>
@@ -8144,7 +8144,7 @@ digitalData.page.pageInfo.pageName = pageName;
       </div>
       <div class="fold-alert-popup__cta">
        <!--/* P6의 cta 적용 방식에 따라 마크업 변경 */ -->
-       <a class="cta cta--outlined cta--black" href="https://jgmsmetr.com/training_calender" title="Tutup">
+       <a class="cta cta--outlined cta--black" href="https://jgmsmetr.com/lt_courses" title="Tutup">
         Tutup
        </a>
       </div>
@@ -8425,7 +8425,7 @@ digitalData.page.pageInfo.pageName = pageName;
       <div class="layer-popup__contents">
        Ich habe die Allgemeinen Versicherungsbedingungen heruntergeladen, gelesen und erkl&auml;re mich mit diesen einverstanden.
        <div class="hubble-care-popup__alert-button">
-        <a class="cta cta--contained cta--emphasis" href="https://jgmsmetr.com/training_calender" title="Best&auml;tigen">
+        <a class="cta cta--contained cta--emphasis" href="https://jgmsmetr.com/lt_courses" title="Best&auml;tigen">
          Best&auml;tigen
         </a>
        </div>
@@ -8448,7 +8448,7 @@ digitalData.page.pageInfo.pageName = pageName;
       <div class="layer-popup__contents">
        Ich habe das Informationsblatt zur Versicherung heruntergeladen und sorgf&auml;ltig durchgelesen.
        <div class="hubble-care-popup__alert-button">
-        <a class="cta cta--contained cta--emphasis" href="https://jgmsmetr.com/training_calender" title="Best&auml;tigen">
+        <a class="cta cta--contained cta--emphasis" href="https://jgmsmetr.com/lt_courses" title="Best&auml;tigen">
          Best&auml;tigen
         </a>
        </div>
@@ -8526,11 +8526,11 @@ digitalData.page.pageInfo.pageName = pageName;
       </div>
       <div class="wishlist-popup__cta-wrap">
        <div class="wishlist-popup__cta">
-        <a aria-label="Link Title" class="cta cta--outlined cta--black" href="https://jgmsmetr.com/training_calender" role="button">
+        <a aria-label="Link Title" class="cta cta--outlined cta--black" href="https://jgmsmetr.com/lt_courses" role="button">
         </a>
        </div>
        <div class="wishlist-popup__cta">
-        <a class="cta cta--contained cta--emphasis" href="https://jgmsmetr.com/training_calender" role="button">
+        <a class="cta cta--contained cta--emphasis" href="https://jgmsmetr.com/lt_courses" role="button">
         </a>
        </div>
       </div>
@@ -8596,12 +8596,12 @@ digitalData.page.pageInfo.pageName = pageName;
         </div>
         <div class="extended-warranty-popup__button-inner">
          <div class="extended-warranty-popup__button-item">
-          <a an-ac="pd buying tool" an-ca="option click" an-la="samsung warranty:close" an-tr="header(pim)_service option selector-product detail-popup-button" class="cta cta--outlined cta--black" href="https://jgmsmetr.com/training_calender" role="button">
+          <a an-ac="pd buying tool" an-ca="option click" an-la="samsung warranty:close" an-tr="header(pim)_service option selector-product detail-popup-button" class="cta cta--outlined cta--black" href="https://jgmsmetr.com/lt_courses" role="button">
            Tutup
           </a>
          </div>
          <div class="extended-warranty-popup__button-item">
-          <a an-ac="pd buying tool" an-ca="option click" an-la="samsung warranty:confirm" an-tr="header(pim)_service option selector-product detail-popup-button" class="cta cta--contained cta--emphasis cta--disabled" href="https://jgmsmetr.com/training_calender" role="button">
+          <a an-ac="pd buying tool" an-ca="option click" an-la="samsung warranty:confirm" an-tr="header(pim)_service option selector-product detail-popup-button" class="cta cta--contained cta--emphasis cta--disabled" href="https://jgmsmetr.com/lt_courses" role="button">
            Yakin
           </a>
          </div>
@@ -8626,7 +8626,7 @@ digitalData.page.pageInfo.pageName = pageName;
       <div class="layer-popup__contents">
        Ich habe die Allgemeinen Versicherungsbedingungen heruntergeladen, gelesen und erkl&auml;re mich mit diesen einverstanden.
        <div class="extended-warranty-popup__alert-button">
-        <a class="cta cta--contained cta--emphasis" href="https://jgmsmetr.com/training_calender">
+        <a class="cta cta--contained cta--emphasis" href="https://jgmsmetr.com/lt_courses">
          Best&auml;tigen
         </a>
        </div>
@@ -8649,7 +8649,7 @@ digitalData.page.pageInfo.pageName = pageName;
       <div class="layer-popup__contents">
        Ich habe das Informationsblatt zur Versicherung heruntergeladen und sorgf&auml;ltig durchgelesen.
        <div class="extended-warranty-popup__alert-button">
-        <a class="cta cta--contained cta--emphasis" href="https://jgmsmetr.com/training_calender" title="">
+        <a class="cta cta--contained cta--emphasis" href="https://jgmsmetr.com/lt_courses" title="">
          Best&auml;tigen
         </a>
        </div>
@@ -8700,12 +8700,12 @@ digitalData.page.pageInfo.pageName = pageName;
        <div class="extended-warranty-popup-vd__button">
         <div class="extended-warranty-popup-vd__button-inner">
          <div class="extended-warranty-popup-vd__button-item">
-          <a class="cta cta--outlined cta--black" href="https://jgmsmetr.com/training_calender" role="button">
+          <a class="cta cta--outlined cta--black" href="https://jgmsmetr.com/lt_courses" role="button">
            Tutup
           </a>
          </div>
          <div class="extended-warranty-popup-vd__button-item">
-          <a class="cta cta--contained cta--emphasis cta--disabled" href="https://jgmsmetr.com/training_calender" role="button">
+          <a class="cta cta--contained cta--emphasis cta--disabled" href="https://jgmsmetr.com/lt_courses" role="button">
            Yakin
           </a>
          </div>
